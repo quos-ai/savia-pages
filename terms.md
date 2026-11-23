@@ -54,16 +54,31 @@ Please do not:
 - use it to build a competing plant database or train a competing AI;
 - misuse free features or trials, or pretend to be someone else.
 
-## 9. Premium and payments
+## 9. Payments, cancellation and refunds
 
-- Subscriptions are monthly or yearly. Prices are shown in the app and in your store before you buy.
-- **Free trial.** When the store says you are eligible, the Yearly plan starts with a 14-day free trial. Confirm. In the UK, you sign in to start the trial so we can email you before it ends. Cancel before the trial ends and you pay nothing.
-- **Billing.** The Apple App Store or Google Play takes the payment. Your plan renews on its own at the end of each period unless you cancel at least 24 hours before it ends. Your store account is charged for the renewal.
-- **Cancel** any time in your store account settings (Apple: Settings, your name, Subscriptions. Google Play: Play Store, Payments and subscriptions, Subscriptions). Deleting the app or your Savia account does not cancel the subscription.
-- **Refunds** are handled by Apple or Google under their rules. We cannot give refunds for store purchases ourselves.
-- **Your rights by law.** Some countries give you extra rights to cancel or get a refund, for example a 14-day cooling-off period in the UK and EU. Nothing here takes those rights away.
-- If your Premium ends, you keep your history and plants, but you cannot start paid features.
-- If we change a price, we tell you first and the store asks you to agree.
+Premium is a subscription, monthly or yearly. Prices are shown in the app and in your store before you buy.
+
+**Who bills you.** The Apple App Store or Google Play takes the payment, not Savia. They also handle refunds. We never see your card, and we cannot refund a store purchase ourselves.
+
+**Free trial.** When the store says you are eligible, the Yearly plan starts with a 14-day free trial. The trial ends on its own and turns into a paid plan unless you cancel at least 24 hours before it ends. In the UK, you sign in to start the trial so we can email you before it ends.
+
+**Renewal.** Your plan renews at the end of each period unless you cancel at least 24 hours before it ends. Your store account is charged for the renewal.
+
+**How to cancel.** Cancel in the store you bought from. You keep Premium until the end of the period you paid for.
+- Apple: Settings, tap your name, Subscriptions, Savia, Cancel. [Apple's help](https://support.apple.com/en-us/118428)
+- Google Play: Play Store, your profile, Payments and subscriptions, Subscriptions, Savia, Cancel. [Google's help](https://support.google.com/googleplay/answer/7018481)
+
+Deleting the app or your Savia account does not cancel the subscription.
+
+**How to ask for a refund.** Ask the store. They decide.
+- Apple: go to reportaproblem.apple.com, sign in, find the purchase and choose Report a problem. [Apple's help](https://support.apple.com/en-us/118223)
+- Google Play: open your order history in the Play Store, or use Google's refund page. [Google's help](https://support.google.com/googleplay/answer/2479637)
+
+**Your rights by law.** Some countries give you extra rights to cancel or get a refund, for example a 14-day cooling-off period in the UK and EU. Nothing here takes those rights away.
+
+**If Premium ends,** you keep your history and plants, but you cannot start paid features.
+
+**If we change a price,** we tell you first and the store asks you to agree.
 
 ## 10. Our rights
 

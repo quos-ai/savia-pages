@@ -25,12 +25,12 @@ Please tell us:
 
 **My reminders did not come.** Check that notifications are on for Savia in your phone settings, and that battery saver is not blocking them.
 
-**How do I cancel Premium?** Through the store you bought it from.
+**How do I cancel Premium?** Through the store you bought it from. See [Refunds and cancelling](refunds).
 - iPhone: Settings, tap your name, Subscriptions, Savia.
 - Android: Play Store, your profile, Payments and subscriptions, Subscriptions, Savia.
 Deleting your Savia account does not cancel it.
 
-**Can I get a refund?** Apple and Google handle refunds. Ask them at reportaproblem.apple.com or in Google Play's order history.
+**Can I get a refund?** Apple and Google handle refunds. See [Refunds and cancelling](refunds).
 
 **How do I restore Premium on a new phone?** Open Account, Subscription, then Restore.
 
