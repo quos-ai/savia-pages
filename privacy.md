@@ -1,7 +1,7 @@
 # Savia Privacy Policy
 
 
-Effective date: 20 November 2026
+Effective date: 24 November 2026
 
 ## The short version
 
@@ -9,21 +9,21 @@ Effective date: 20 November 2026
 - You can use Savia without an account. If you sign in, we keep your email so you can get your garden back.
 - When you ask Savia to identify a plant or check a problem, your photo goes to our AI service provider to answer you.
 - We never sell your personal information. Savia has no ads and no advertising trackers.
-- You can turn usage data off or on (on/off switch at the bottom of this page in the app), withdraw photo permission, export your garden and delete your account.
+- You can turn usage data off or on (on/off switch at the bottom of this page in the app), export your garden and delete your account.
 - When you delete your account, we keep it for 30 days in case you change your mind. After that it is deleted. We keep your plant photos, with everything that links them to you removed, to test and improve Savia's answers.
 
 ## Who we are
 
 Savia is run by Quosphere Inc, a company in the United States (19 W 34th St #1018, New York, NY 10001). In this policy, "we" and "Savia" mean that company.
 
-Questions or requests: privacy@savia.quos.ai.
+Questions or requests: support@savia.quos.ai.
 
 ## What we collect
 
 **What you give us**
 - Your garden: plant names, places and spaces, notes, care you log, reminders and your choices in the app.
 - Your photos: pictures you take or pick to identify a plant, check a problem or keep in a plant's history.
-- Your sign-in details, if you choose to sign in. With Apple or Google we get the email address they share (Apple may give a private relay address). With email and password we get your email, and your password goes only to our sign-in service. We never see it in plain text.
+- Your sign-in details, if you choose to sign in. You can sign in with email and password, with Google, or (on iPhone only) with Apple. With Apple or Google we get the email address they share (Apple may give a private relay address). With email and password we get your email, and your password goes only to our sign-in service. We never see it in plain text.
 - Messages you send to support.
 - Feedback you send from the app, with any words or photos you add. We keep it to improve Savia, and it stays after Delete account with every link to you removed. Please do not put anything private in it.
 
@@ -31,14 +31,14 @@ Please do not put sensitive details in photos or notes: no card or ID numbers, n
 
 **What the app collects while you use it**
 - An account number. Every garden has one, even without sign-in.
-- Your approximate area, only if you let Savia use your location. We use it to pick your nearest care area, so weather and season tips fit where you live. We do not track you in the background. Confirm that only the nearest area is kept and not the exact point.
+- Your approximate area, only if you let Savia use your location. We keep a rounded point (about one kilometre) and your nearest care area, so weather and season tips fit where you live. We do not track you in the background.
 - A device code and basic phone details (phone model, system version, app version, language, region, time zone). We use them to keep the app working and to deal with errors.
 - Usage data: which screens you open and what you tap, with a code for your phone. It never includes photos, plant names, notes or places. See "Usage data" below.
 - Error reports: if the app crashes, we get a report with the error and your phone details.
 - Purchase information: whether you have Premium, which plan, and when it ends. The App Store or Google Play handles your payment. We never see your card.
-- A notification code, if you turn on reminders, so we can send them to your phone.
+- A notification code, if you turn on reminders. Your phone is registered with us under your account, with its type (iPhone or Android), so we can send reminders to it. Turn notifications off in your phone settings and they stop.
 - Plant fingerprints: when you keep a plant photo, your phone makes a short list of numbers that describes how the photo looks. It is not a picture and it is stored with the photo to help Savia name plants better.
-- Light reading: if you use the light meter, the reading is made on your phone. Confirm nothing is sent.
+- Light meter: the reading is made on your phone from its sensor or camera. The picture is not saved or sent. We keep only the result you choose to save, such as a light level for a space.
 
 ## How we use it
 
@@ -54,7 +54,7 @@ We do not use your garden or photos for advertising. We do not sell your informa
 
 When you ask Savia to identify a plant or check a problem, the app sends the photo, and only the details needed to answer, to our servers. From there, an AI service provider helps work out the answer. We send no name or email with it.
 
-- Savia asks before it uploads a photo for the first time, and you can turn this off in Account, Photos and privacy.
+- A photo is sent only when you ask Savia to identify a plant or check a problem.
 - Our AI provider may not use your photos to train its own models under our agreement with it.
 - Answers can be wrong. See the Terms. Please do not rely on an answer for anything where a mistake could hurt you, your pets or others.
 - We keep a private copy of each photo you send for identification or diagnosis, with our answer. We use them to make Savia more accurate and to check our own work. We do not share or sell them.
@@ -65,21 +65,21 @@ Usage data helps us see what is confusing and what works.
 - Outside Europe, it is on by default. To turn it off, open this Privacy Policy inside the app (Account, Privacy Policy) and use the on/off switch at the very bottom.
 - In the EU, EEA and UK, we ask once, with equal Yes and No buttons. Usage data starts only if you say yes. You can change your mind any time with the same switch.
 - It never includes photos, plant names, notes, places, your email or what you type.
-- It is processed by our analytics provider in the EU.
+- It is processed by our analytics service on servers in the EU.
 
 ## Who helps us (service providers)
 
 They process data for us, under agreements, only to provide their service.
 
-| What they do | Provider | What they get |
+| What they do | Kind of provider | What they get |
 |---|---|---|
-| App database, sign-in, file storage, servers | Supabase | Your account, garden, photos |
-| Plant identification and problem checks (AI) | OpenAI | The photo you send and the minimum detail needed |
-| Usage data | PostHog (EU) | Taps and screens with a phone code |
-| Error reports | Sentry | Error details and phone details |
-| Subscriptions | RevenueCat, Apple App Store, Google Play | Purchase status and an account number. Apple and Google handle payment |
-| Email (sign-in, password, trial reminder) | Mailtrap | Your email address and the message |
-| Reminders | Expo push service, Apple, Google | A notification code and the message |
+| App database, sign-in, file storage, servers | Cloud service provider | Your account, garden, photos |
+| Plant identification and problem checks (AI) | Third-party AI provider | The photo you send and the minimum detail needed |
+| Usage data | Analytics service (EU servers) | Taps and screens with a phone code |
+| Error reports | Crash reporting service | Error details and phone details |
+| Subscriptions, when Premium is on sale | Subscription service, Apple App Store, Google Play | Purchase status and an account number. Apple and Google handle payment |
+| Email (sign-in confirmation, password reset, trial reminder) | Email delivery service, sending from a no-reply address | Your email address and the message |
+| Reminders | Push notification service, Apple, Google | A notification code and the message |
 
 We may also share information when the law requires it, to protect people's safety, or if the company is sold or merged. We would tell you first.
 
@@ -91,7 +91,7 @@ We are in the United States and our providers work in the US and the EU. If you 
 
 - Your garden and photos: until you delete them or delete your account.
 - Delete a photo or a plant: it disappears from your garden right away. This is the same as Delete account for your photos: we keep the photo file, with no link to you, to test and improve Savia's answers. Delete account is the only way to remove everything else at once.
-- Delete account: your garden is hidden straight away and kept for 30 days. If you sign back in within 30 days, everything comes back just as you left it. After 30 days we delete your account, email, plants, notes, places, reminders and settings for good.
+- Delete account: a signed-in account is hidden straight away and kept for 30 days (a guest garden cannot be restored and is removed straight away). If you sign back in within 30 days, everything comes back just as you left it. After 30 days we delete your account, email, plants, notes, places, reminders and settings for good.
 - Your photos stay. After the 30 days, we remove every link to you from them (account, device, place, notes and photo details). They stay in our plant database, and we use them to test and improve how Savia names plants and checks problems.
 - Backups: deleted data can stay in our backups for up to ten weeks after the 30 days, then it is gone.
 - Feedback you send from the app, with any words or photos you add: kept to improve Savia. After Delete account it stays, with every link to you removed.
@@ -103,12 +103,11 @@ We are in the United States and our providers work in the US and the EU. If you 
 
 In the app, you can:
 - Turn usage data off or on, with the on/off switch at the bottom of the Privacy Policy page.
-- Withdraw photo upload permission for future photos.
 - Turn location and notifications on or off in your phone settings.
 - Export your garden.
 - Delete your account. In the app, go to Account, then Delete account. If you cannot open the app, see our [Delete account page](delete-account).
 
-You can also email privacy@savia.quos.ai to ask us to:
+You can also email support@savia.quos.ai to ask us to:
 - tell you what we hold about you, and give you a copy;
 - fix it;
 - delete it;
@@ -117,15 +116,15 @@ You can also email privacy@savia.quos.ai to ask us to:
 
 We may need to confirm it is you. We answer within one month. If a request is complex we may need up to two more months, and we will tell you why.
 
-**If you live in the EU, EEA or UK:** our reasons for using your information are: to provide Savia (contract), to keep it safe and improve it (our legitimate interests), your yes for location (consent, which you can withdraw), your yes for usage data, which we ask once and only start after a yes (consent, which you can withdraw), and legal duties. You can also complain to your local data protection authority. Our EU and UK data protection contact: Quosphere Inc, privacy@savia.quos.ai.
+**If you live in the EU, EEA or UK:** our reasons for using your information are: to provide Savia (contract), to keep it safe and improve it (our legitimate interests), your yes for location (consent, which you can withdraw), your yes for usage data, which we ask once and only start after a yes (consent, which you can withdraw), and legal duties. You can also complain to your local data protection authority. Our EU and UK data protection contact: Quosphere Inc, support@savia.quos.ai.
 
-**If you live in California or another US state with a privacy law:** you can ask what we collect, use and share, ask for a copy, delete or fix it, and not be treated worse for asking. We do not sell your information and do not share it for ads. Email privacy@savia.quos.ai or use the Delete account page.
+**If you live in California or another US state with a privacy law:** you can ask what we collect, use and share, ask for a copy, delete or fix it, and not be treated worse for asking. We do not sell your information and do not share it for ads. Email support@savia.quos.ai or use the Delete account page.
 
-**If you live in India:** you can ask for access, fix, deletion and to withdraw your yes, and name someone to act for you. Contact our Grievance Officer, Quosphere Inc, at privacy@savia.quos.ai.
+**If you live in India:** you can ask for access, fix, deletion and to withdraw your yes, and name someone to act for you. Contact our Grievance Officer, Quosphere Inc, at support@savia.quos.ai.
 
 ## Children
 
-Savia is for people aged 13 and over. We do not knowingly collect information from children under 13. If you think a child under 13 has used Savia, email privacy@savia.quos.ai and we will delete the account.
+Savia is for people aged 13 and over. We do not knowingly collect information from children under 13. If you think a child under 13 has used Savia, email support@savia.quos.ai and we will delete the account.
 
 If you are under 18, please ask a parent or guardian before you use Savia. Where your country's law needs a parent to agree (for example, under 16 in some European countries, or under 18 in India), a parent must agree first.
 
@@ -142,4 +141,4 @@ If we change this policy in a way that matters, we will tell you in the app befo
 ## Contact
 
 Quosphere Inc, 19 W 34th St #1018, New York, NY 10001
-privacy@savia.quos.ai
+support@savia.quos.ai

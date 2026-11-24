@@ -36,10 +36,10 @@ Deleting your Savia account does not cancel it.
 
 **How do I turn usage data off?** Account, Privacy Policy, then the on/off switch at the bottom.
 
-**How do I delete my account?** See [Delete account](https://savia.quos.ai/delete-account).
+**How do I delete my account?** See [Delete account](https://quos-ai.github.io/savia-pages/delete-account).
 
 ## More
 
-[Privacy Policy](https://savia.quos.ai/privacy) · [Terms of Use](https://savia.quos.ai/terms) · [Delete account](https://savia.quos.ai/delete-account)
+[Privacy Policy](https://quos-ai.github.io/savia-pages/privacy) · [Terms of Use](https://quos-ai.github.io/savia-pages/terms) · [Delete account](https://quos-ai.github.io/savia-pages/delete-account)
 
 Quosphere Inc, 19 W 34th St #1018, New York, NY 10001

@@ -41,7 +41,7 @@ Plant safety information (for example "toxic to cats") is general information fr
 
 You own your photos, notes and other content. You give us permission to store, process and show it to run Savia for you. This includes sending photos to our AI providers when you ask for an identification or check.
 
-If you delete your account, we keep it for 30 days, then delete it. You agree that we may keep your photos after that, with every link to you removed, to test and improve Savia's plant answers. We explain this in the [Privacy Policy](privacy)(https://savia.quos.ai/privacy).
+If you delete your account, we keep it for 30 days, then delete it. You agree that we may keep your photos after that, with every link to you removed, to test and improve Savia's plant answers. We explain this in the [Privacy Policy](https://quos-ai.github.io/savia-pages/privacy).
 
 Only add content you have the right to share. Do not upload photos of other people, sensitive details (such as card numbers or health information), anything illegal or anything that harms others.
 
